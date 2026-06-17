@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([["2927"],{95359(a){a.exports=JSON.parse('{"tag":{"label":"ipc","permalink":"/tags/ipc","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/ipc","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

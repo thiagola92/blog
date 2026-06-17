@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([["8704"],{73830(a){a.exports=JSON.parse('{"tag":{"label":"playwright","permalink":"/tags/playwright","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/playwright","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

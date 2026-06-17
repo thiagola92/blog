@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([["9617"],{18076(a){a.exports=JSON.parse('{"tag":{"label":"browser","permalink":"/tags/browser","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/browser","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

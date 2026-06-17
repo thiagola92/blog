@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([["5175"],{59082(a){a.exports=JSON.parse('{"tag":{"label":"go","permalink":"/tags/go","allTagsPath":"/tags","count":2,"unlisted":false},"listMetadata":{"permalink":"/tags/go","page":1,"postsPerPage":1,"totalPages":2,"totalCount":2,"nextPage":"/tags/go/page/2","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
