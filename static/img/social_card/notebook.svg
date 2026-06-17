@@ -59,10 +59,10 @@
      id="layer1">
     <path
        id="rect1"
-       style="fill:#3ecc5f;stroke-width:1.16147;-inkscape-stroke:none"
+       style="fill:#3584e4;stroke-width:1.16147;-inkscape-stroke:none"
        d="M 20 16.103516 C 17.784002 16.103516 16 17.887518 16 20.103516 L 16 76.103516 C 16 78.319513 17.784002 80.103516 20 80.103516 L 108 80.103516 C 110.216 80.103516 112 78.319513 112 76.103516 L 112 20.103516 C 112 17.887518 110.216 16.103516 108 16.103516 L 20 16.103516 z M 28 24.103516 L 100 24.103516 C 102.216 24.103516 104 25.887518 104 28.103516 L 104 68.103516 C 104 70.319513 102.216 72.103516 100 72.103516 L 28 72.103516 C 25.784002 72.103516 24 70.319513 24 68.103516 L 24 28.103516 C 24 25.887518 25.784002 24.103516 28 24.103516 z " />
     <rect
-       style="fill:#3ecc5f;stroke-width:1.16147;-inkscape-stroke:none"
+       style="fill:#3584e4;stroke-width:1.16147;-inkscape-stroke:none"
        id="rect2"
        width="112"
        height="8"
@@ -70,7 +70,7 @@
        y="80.103691"
        ry="4" />
     <rect
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:0.818456;-inkscape-stroke:none"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:0.818456;-inkscape-stroke:none"
        id="rect4"
        width="32"
        height="2.8963096"
@@ -78,7 +78,7 @@
        y="29.207382"
        ry="1.4481548" />
     <rect
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.0024;-inkscape-stroke:none"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:1.0024;-inkscape-stroke:none"
        id="rect4-5"
        width="48"
        height="2.8963096"
@@ -86,7 +86,7 @@
        y="37.103691"
        ry="1.4481548" />
     <rect
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.08272;-inkscape-stroke:none"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:1.08272;-inkscape-stroke:none"
        id="rect4-5-2"
        width="56"
        height="2.8963096"
@@ -94,7 +94,7 @@
        y="45.207382"
        ry="1.4481548" />
     <rect
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:0.818456;-inkscape-stroke:none"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:0.818456;-inkscape-stroke:none"
        id="rect4-5-7"
        width="32"
        height="2.8963096"
@@ -102,7 +102,7 @@
        y="53.207382"
        ry="1.4481548" />
     <rect
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:0.915062;-inkscape-stroke:none"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:0.915062;-inkscape-stroke:none"
        id="rect4-5-6"
        width="40"
        height="2.8963096"

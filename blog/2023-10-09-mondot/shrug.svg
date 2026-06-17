@@ -59,10 +59,10 @@
      id="layer1">
     <path
        id="path1"
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.12081;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:1.12081;stroke-linecap:round;stroke-linejoin:bevel"
        d="M 46.333333 20 A 14 14 0 0 0 32.333333 34 A 14 14 0 0 0 33.216146 38.791016 L 33.729167 38.791016 C 36.27998 38.791016 38.333333 40.845021 38.333333 43.395833 C 38.333333 44.031576 38.205631 44.636324 37.974609 45.186198 A 14 14 0 0 0 46.333333 48 A 14 14 0 0 0 54.692057 45.186198 C 54.461035 44.636324 54.333333 44.031576 54.333333 43.395833 C 54.333333 40.845018 56.386678 38.791016 58.9375 38.791016 L 59.450521 38.791016 A 14 14 0 0 0 60.333333 34 A 14 14 0 0 0 46.333333 20 z M 41 24 C 41.553994 24 42 24.446006 42 25 L 42 32.500651 C 42 33.054645 41.553994 33.500651 41 33.500651 C 40.446001 33.500651 40 33.054645 40 32.500651 L 40 25 C 40 24.446006 40.446001 24 41 24 z M 49 24 C 49.553993 24 50 24.446007 50 25 L 50 32.500651 C 50 33.054644 49.553993 33.500651 49 33.500651 C 48.446 33.500651 48 33.054644 48 32.500651 L 48 25 C 48 24.446007 48.446 24 49 24 z M 55.333333 29.666667 C 55.733162 39.307328 50.108348 43.00714 41.784505 43.215495 L 55.333333 29.666667 z " />
     <rect
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.053;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:1.053;stroke-linecap:round;stroke-linejoin:bevel"
        id="rect1"
        width="19.890175"
        height="8.3674393"
@@ -71,7 +71,7 @@
        rx="4.1837196"
        ry="4.1837196" />
     <rect
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.053;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:1.053;stroke-linecap:round;stroke-linejoin:bevel"
        id="rect1-2"
        width="19.890175"
        height="8.3674393"
@@ -80,7 +80,7 @@
        rx="4.1837196"
        ry="4.1837196" />
     <rect
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.053;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:1.053;stroke-linecap:round;stroke-linejoin:bevel"
        id="rect1-5"
        width="19.890175"
        height="8.3674393"
@@ -90,7 +90,7 @@
        ry="4.1837196"
        transform="rotate(-60)" />
     <rect
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.053;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:1.053;stroke-linecap:round;stroke-linejoin:bevel"
        id="rect1-7"
        width="19.890175"
        height="8.3674393"
@@ -100,7 +100,7 @@
        ry="4.1837196"
        transform="scale(-1,1)" />
     <rect
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.053;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:1.053;stroke-linecap:round;stroke-linejoin:bevel"
        id="rect1-2-0"
        width="19.890175"
        height="8.3674393"
@@ -110,7 +110,7 @@
        ry="4.1837196"
        transform="scale(-1,1)" />
     <rect
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.053;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:1.053;stroke-linecap:round;stroke-linejoin:bevel"
        id="rect1-5-9"
        width="19.890175"
        height="8.3674393"

@@ -51,7 +51,7 @@
   </sodipodi:namedview>
   <path
      sodipodi:type="star"
-     style="fill:#3ecc5f;fill-opacity:1;stroke:none;stroke-width:7.935;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     style="fill:#3584e4;fill-opacity:1;stroke:none;stroke-width:7.935;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
      id="path4-7"
      inkscape:flatsided="false"
      sodipodi:sides="3"
@@ -68,14 +68,14 @@
      transform="matrix(0.80622552,-0.7061626,0.20385159,0.23273727,30.582656,82.97862)"
      inkscape:transform-center-y="-19.970746" />
   <circle
-     style="fill:#3ecc5f;fill-opacity:1;stroke:none;stroke-width:0.375;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+     style="fill:#3584e4;fill-opacity:1;stroke:none;stroke-width:0.375;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
      id="path1"
      cx="152.00012"
      cy="31"
      r="3" />
   <text
      xml:space="preserve"
-     style="font-size:9.114px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3ecc5f;fill-opacity:1;stroke:#3ecc5f;stroke-width:0.37975;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+     style="font-size:9.114px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3584e4;fill-opacity:1;stroke:#3584e4;stroke-width:0.37975;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
      x="156.02594"
      y="26.505877"
      id="text1"><tspan
@@ -83,9 +83,9 @@
        id="tspan1"
        x="156.02594"
        y="26.505877"
-       style="fill:#3ecc5f;fill-opacity:1;stroke:#3ecc5f;stroke-width:0.37975;stroke-opacity:1">T</tspan></text>
+       style="fill:#3584e4;fill-opacity:1;stroke:#3584e4;stroke-width:0.37975;stroke-opacity:1">T</tspan></text>
   <path
-     style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:1.25101;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+     style="fill:none;fill-opacity:1;stroke:#99C1F1;stroke-width:1.25101;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
      id="path2"
      sodipodi:type="arc"
      sodipodi:cx="62.000114"

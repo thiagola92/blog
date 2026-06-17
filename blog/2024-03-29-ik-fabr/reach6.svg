@@ -51,7 +51,7 @@
   </sodipodi:namedview>
   <path
      sodipodi:type="star"
-     style="fill:#3ecc5f;fill-opacity:1;stroke:none;stroke-width:7.935;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     style="fill:#3584e4;fill-opacity:1;stroke:none;stroke-width:7.935;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
      id="path4-7-3"
      inkscape:flatsided="false"
      sodipodi:sides="3"
@@ -68,14 +68,14 @@
      transform="matrix(0.80301516,-0.70981114,0.20490483,0.23181052,30.612452,82.914822)"
      inkscape:transform-center-y="-20.107972" />
   <circle
-     style="fill:#3ecc5f;fill-opacity:1;stroke:none;stroke-width:0.375;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+     style="fill:#3584e4;fill-opacity:1;stroke:none;stroke-width:0.375;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
      id="path1"
      cx="152.00043"
      cy="31"
      r="3" />
   <text
      xml:space="preserve"
-     style="font-size:9.114px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3ecc5f;fill-opacity:1;stroke:#3ecc5f;stroke-width:0.37975;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+     style="font-size:9.114px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3584e4;fill-opacity:1;stroke:#3584e4;stroke-width:0.37975;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
      x="156.02625"
      y="26.505877"
      id="text1"><tspan
@@ -83,21 +83,21 @@
        id="tspan1"
        x="156.02625"
        y="26.505877"
-       style="fill:#3ecc5f;fill-opacity:1;stroke:#3ecc5f;stroke-width:0.37975;stroke-opacity:1">T</tspan></text>
+       style="fill:#3584e4;fill-opacity:1;stroke:#3584e4;stroke-width:0.37975;stroke-opacity:1">T</tspan></text>
   <g
      id="path8">
     <path
-       style="color:#000000;fill:#008000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       style="color:#000000;fill:#99C1F1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
        d="m 151.26758,31.402344 a 0.25,0.25 0 0 0 -0.18164,0.0625 L 96.953125,79.412109 a 0.25,0.25 0 0 0 -0.02148,0.353516 0.25,0.25 0 0 0 0.353515,0.02148 L 151.41797,31.837891 a 0.25,0.25 0 0 0 0.0215,-0.353516 0.25,0.25 0 0 0 -0.17187,-0.08203 z"
        id="path4" />
     <path
-       style="color:#000000;fill:#3ecc5f;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       style="color:#000000;fill:#3584e4;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
        d="M 151.25186,31.651048 97.118502,79.599789"
        id="path5" />
     <g
        id="g2">
       <path
-         style="color:#000000;fill:#008000;fill-rule:evenodd;-inkscape-stroke:none"
+         style="color:#000000;fill:#99C1F1;fill-rule:evenodd;-inkscape-stroke:none"
          d="m 152.00043,30.987997 -0.25656,4.234876 -1.49715,1.326102 0.25657,-4.234876 -4.23488,-0.256569 1.49715,-1.326102 z"
          id="path2" />
     </g>

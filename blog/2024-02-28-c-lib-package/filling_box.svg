@@ -53,18 +53,18 @@
      inkscape:groupmode="layer"
      id="layer1"><path
        id="rect1"
-       style="fill:#3ecc5f;fill-opacity:1;stroke:#3ecc5f;stroke-width:0.993467;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#3584e4;fill-opacity:1;stroke:#3584e4;stroke-width:0.993467;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 105.49609 205.49609 L 105.49609 394.50391 L 294.50391 394.50391 L 294.50391 205.49609 L 105.49609 205.49609 z M 190.48242 240.48242 L 209.51758 240.48242 L 209.51758 261.49219 A 44.550003 44.550003 0 0 1 224.03516 267.50586 L 240.05859 251.48242 L 253.51758 264.94141 L 237.49414 280.96484 A 44.550003 44.550003 0 0 1 243.50781 295.48242 L 264.51758 295.48242 L 264.51758 314.51758 L 243.4043 314.51758 A 44.550003 44.550003 0 0 1 237.46484 329.10352 L 253.51758 345.15625 L 240.05859 358.61523 L 223.98047 342.53711 A 44.550003 44.550003 0 0 1 209.51758 348.4043 L 209.51758 369.51758 L 190.48242 369.51758 L 190.48242 348.4043 A 44.550003 44.550003 0 0 1 175.95703 342.50195 L 159.84375 358.61523 L 146.38477 345.15625 L 162.49805 329.04297 A 44.550003 44.550003 0 0 1 156.5957 314.51758 L 135.48242 314.51758 L 135.48242 295.48242 L 156.5957 295.48242 A 44.550003 44.550003 0 0 1 162.49805 280.95703 L 146.38477 264.84375 L 159.84375 251.38477 L 175.95703 267.49805 A 44.550003 44.550003 0 0 1 190.48242 261.5957 L 190.48242 240.48242 z " /><g
        id="g1"
        transform="translate(-4.9999943,4.9999999)"><rect
-         style="fill:#3ecc5f;fill-opacity:1;stroke:#3ecc5f;stroke-width:0.225125;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+         style="fill:#3584e4;fill-opacity:1;stroke:#3584e4;stroke-width:0.225125;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
          id="rect1-5"
          width="14.092571"
          height="130.16777"
          x="-7.3574524"
          y="107.94154"
          transform="rotate(-30)" /><rect
-         style="fill:#3ecc5f;fill-opacity:1;stroke:#3ecc5f;stroke-width:0.225125;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+         style="fill:#3584e4;fill-opacity:1;stroke:#3584e4;stroke-width:0.225125;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
          id="rect1-5-2"
          width="14.092571"
          height="130.16777"
@@ -72,7 +72,7 @@
          y="-97.058456"
          transform="matrix(-0.8660254,-0.5,-0.5,0.8660254,0,0)" /></g><text
        xml:space="preserve"
-       style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3ecc5f;fill-opacity:1;stroke:#3ecc5f;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3584e4;fill-opacity:1;stroke:#3584e4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
        x="-144.836"
        y="159.896"
        id="text2"
@@ -82,7 +82,7 @@
          x="-144.836"
          y="159.896">-I/usr/include/gtk-4.0</tspan></text><text
        xml:space="preserve"
-       style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3ecc5f;fill-opacity:1;stroke:#3ecc5f;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3584e4;fill-opacity:1;stroke:#3584e4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
        x="-193.6479"
        y="199.896"
        id="text3"
@@ -92,7 +92,7 @@
          x="-193.6479"
          y="199.896">-I/usr/include/pango-1.0</tspan></text><text
        xml:space="preserve"
-       style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3ecc5f;fill-opacity:1;stroke:#3ecc5f;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3584e4;fill-opacity:1;stroke:#3584e4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
        x="-259.6319"
        y="227.244"
        id="text4"
@@ -102,7 +102,7 @@
          x="-259.6319"
          y="227.244">-I/usr/include/glib-2.0</tspan></text><text
        xml:space="preserve"
-       style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3ecc5f;fill-opacity:1;stroke:#3ecc5f;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3584e4;fill-opacity:1;stroke:#3584e4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
        x="-129.836"
        y="237.28"
        id="text5"
@@ -112,7 +112,7 @@
          x="-129.836"
          y="237.28">-I/usr/include/harfbuzz</tspan></text><text
        xml:space="preserve"
-       style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3ecc5f;fill-opacity:1;stroke:#3ecc5f;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3584e4;fill-opacity:1;stroke:#3584e4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
        x="-192.16791"
        y="269.896"
        id="text6"
@@ -122,7 +122,7 @@
          x="-192.16791"
          y="269.896">-I/usr/include/libpng16</tspan></text><text
        xml:space="preserve"
-       style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3ecc5f;fill-opacity:1;stroke:#3ecc5f;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3584e4;fill-opacity:1;stroke:#3584e4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
        x="-259.17191"
        y="179.896"
        id="text7"
@@ -132,7 +132,7 @@
          x="-259.17191"
          y="179.896">-I/usr/include/libmount</tspan></text><text
        xml:space="preserve"
-       style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3ecc5f;fill-opacity:1;stroke:#3ecc5f;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#3584e4;fill-opacity:1;stroke:#3584e4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
        x="-204.836"
        y="137.28"
        id="text8"
@@ -141,7 +141,7 @@
          id="tspan8"
          x="-204.836"
          y="137.28">-I/usr/include/blkid</tspan></text><circle
-       style="fill:#3ecc5f;fill-opacity:1;stroke:#3ecc5f;stroke-width:0.299997;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#3584e4;fill-opacity:1;stroke:#3584e4;stroke-width:0.299997;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
        id="path8-0"
        cx="200"
        cy="305"

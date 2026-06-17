@@ -59,7 +59,7 @@
      id="layer1">
     <path
        id="path1"
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:bevel"
        d="M 56.242188 25.514974 A 14.242401 14.242401 0 0 0 42 39.757812 A 14.242401 14.242401 0 0 0 56.242188 54 A 14.242401 14.242401 0 0 0 70.485026 39.757812 A 14.242401 14.242401 0 0 0 56.242188 25.514974 z M 52 38 A 4 4 0 0 1 56 42 A 4 4 0 0 1 52 46 A 4 4 0 0 1 48 42 A 4 4 0 0 1 52 38 z M 65 38 A 4 4 0 0 1 69 42 A 4 4 0 0 1 65 46 A 4 4 0 0 1 61 42 A 4 4 0 0 1 65 38 z " />
     <rect
        style="fill:#000000;fill-opacity:1;stroke-width:1.00915;stroke-linecap:round;stroke-linejoin:bevel"
@@ -71,7 +71,7 @@
        rx="3.1954267"
        ry="3.1954267" />
     <rect
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.00915;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:1.00915;stroke-linecap:round;stroke-linejoin:bevel"
        id="rect1"
        width="16"
        height="8"
@@ -80,7 +80,7 @@
        rx="3.1954267"
        ry="3.1954267" />
     <rect
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.00915;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:1.00915;stroke-linecap:round;stroke-linejoin:bevel"
        id="rect1-5"
        width="16"
        height="8"
@@ -89,7 +89,7 @@
        rx="3.1954267"
        ry="3.1954267" />
     <rect
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.00915;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:1.00915;stroke-linecap:round;stroke-linejoin:bevel"
        id="rect1-5-3"
        width="16"
        height="8"
@@ -98,7 +98,7 @@
        rx="3.1954267"
        ry="3.1954267" />
     <rect
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.00915;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:1.00915;stroke-linecap:round;stroke-linejoin:bevel"
        id="rect1-5-7"
        width="16"
        height="8"
@@ -110,7 +110,7 @@
        id="g2"
        transform="rotate(45,50.636039,62.863961)">
       <rect
-         style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.42404;stroke-linecap:round;stroke-linejoin:bevel"
+         style="fill:#3584e4;fill-opacity:1;stroke-width:1.42404;stroke-linecap:round;stroke-linejoin:bevel"
          id="rect2"
          width="2"
          height="15"
@@ -119,7 +119,7 @@
          rx="0"
          ry="0" />
       <rect
-         style="fill:#3ecc5f;fill-opacity:1;stroke-width:0.519986;stroke-linecap:round;stroke-linejoin:bevel"
+         style="fill:#3584e4;fill-opacity:1;stroke-width:0.519986;stroke-linecap:round;stroke-linejoin:bevel"
          id="rect2-2"
          width="2"
          height="2"
@@ -129,7 +129,7 @@
          ry="0.68450683" />
       <path
          sodipodi:type="star"
-         style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:bevel"
+         style="fill:#3584e4;fill-opacity:1;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:bevel"
          id="path2"
          inkscape:flatsided="true"
          sodipodi:sides="3"
@@ -149,7 +149,7 @@
        id="g2-0"
        transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,17.859226,-17.610173)">
       <rect
-         style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.42404;stroke-linecap:round;stroke-linejoin:bevel"
+         style="fill:#3584e4;fill-opacity:1;stroke-width:1.42404;stroke-linecap:round;stroke-linejoin:bevel"
          id="rect2-3"
          width="2"
          height="15"
@@ -158,7 +158,7 @@
          rx="0"
          ry="0" />
       <rect
-         style="fill:#3ecc5f;fill-opacity:1;stroke-width:0.519986;stroke-linecap:round;stroke-linejoin:bevel"
+         style="fill:#3584e4;fill-opacity:1;stroke-width:0.519986;stroke-linecap:round;stroke-linejoin:bevel"
          id="rect2-2-6"
          width="2"
          height="2"
@@ -168,7 +168,7 @@
          ry="0.68450683" />
       <path
          sodipodi:type="star"
-         style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:bevel"
+         style="fill:#3584e4;fill-opacity:1;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:bevel"
          id="path2-1"
          inkscape:flatsided="true"
          sodipodi:sides="3"
@@ -186,28 +186,28 @@
     </g>
     <path
        id="path1-6"
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:bevel"
        d="M 20.242188 25.514974 A 14.242401 14.242401 0 0 0 6 39.757812 A 14.242401 14.242401 0 0 0 20.242188 54 A 14.242401 14.242401 0 0 0 34.485026 39.757812 A 14.242401 14.242401 0 0 0 20.242188 25.514974 z M 20 37 A 4 4 0 0 1 24 41 A 4 4 0 0 1 20 45 A 4 4 0 0 1 16 41 A 4 4 0 0 1 20 37 z M 30 37 A 4 4 0 0 1 34 41 A 4 4 0 0 1 30 45 A 4 4 0 0 1 26 41 A 4 4 0 0 1 30 37 z " />
     <circle
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:0.187234;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:0.187234;stroke-linecap:round;stroke-linejoin:bevel"
        id="path1-6-0"
        cx="31"
        cy="42"
        r="2" />
     <circle
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:0.187234;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:0.187234;stroke-linecap:round;stroke-linejoin:bevel"
        id="path1-6-0-5"
        cx="21"
        cy="42"
        r="2" />
     <circle
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:0.187234;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:0.187234;stroke-linecap:round;stroke-linejoin:bevel"
        id="path1-6-0-8"
        cx="52"
        cy="44"
        r="2" />
     <circle
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:0.187234;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:0.187234;stroke-linecap:round;stroke-linejoin:bevel"
        id="path1-6-0-6"
        cx="65"
        cy="44"

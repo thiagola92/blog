@@ -60,7 +60,7 @@
        id="g1"
        transform="rotate(30,65.626842,769.35393)">
       <rect
-         style="fill:#33c255;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#1A5FB4;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
          id="rect1"
          width="222.24998"
          height="42.333332"
@@ -69,7 +69,7 @@
          rx="10.58334"
          ry="10.58334" />
       <rect
-         style="fill:#33c255;stroke-width:3.70328;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#1A5FB4;stroke-width:3.70328;stroke-linecap:round;stroke-linejoin:round"
          id="rect1-5"
          width="190.5"
          height="42.333332"
@@ -79,12 +79,12 @@
          ry="10.58334" />
       <path
          id="rect1-5-2"
-         style="fill:#33c255;stroke-width:3.14718;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#1A5FB4;stroke-width:3.14718;stroke-linecap:round;stroke-linejoin:round"
          transform="rotate(90)"
          d="m 179.91666,63.499997 42.33333,-21.166666 c 3.24639,-1.623197 5.29167,25.886835 5.29167,31.750005 v 21.166653 c 0,5.863171 -2.04528,33.373201 -5.29167,31.750001 L 179.91666,105.83333 C 164.04166,97.895831 89.958328,101.11316 89.958328,95.249989 V 74.083336 c 0,-5.86317 74.083332,-2.645838 89.958332,-10.583339 z"
          sodipodi:nodetypes="sssssssss" />
       <circle
-         style="fill:#33c255;stroke-width:3.20001;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#1A5FB4;stroke-width:3.20001;stroke-linecap:round;stroke-linejoin:round"
          id="path1"
          cx="-84.666664"
          cy="68.791664"

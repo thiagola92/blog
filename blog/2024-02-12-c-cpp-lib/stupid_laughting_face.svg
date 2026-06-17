@@ -65,7 +65,7 @@
     </g>
     <path
        id="path4"
-       style="fill:#3ecc5f;fill-opacity:1;stroke:none;stroke-width:0.483681;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.483681, 0.967363;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#3584e4;fill-opacity:1;stroke:none;stroke-width:0.483681;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.483681, 0.967363;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 30.956372 1.9124303 A 29.043861 29.043861 0 0 0 1.9125523 30.95625 A 29.043861 29.043861 0 0 0 30.956372 60.00007 A 29.043861 29.043861 0 0 0 60.000192 30.95625 A 29.043861 29.043861 0 0 0 30.956372 1.9124303 z M 36.70178 3.7164617 A 10.259862 6.5438623 75 0 1 44.830515 12.068956 A 10.259862 6.5438623 75 0 1 41.165091 23.672945 A 10.259862 6.5438623 75 0 1 32.18886 15.45636 A 10.259862 6.5438623 75 0 1 35.854284 3.8523712 A 10.259862 6.5438623 75 0 1 36.70178 3.7164617 z M 14.485478 9.6690934 A 10.259862 6.5438623 75 0 1 22.614213 18.022105 A 10.259862 6.5438623 75 0 1 18.948789 29.626093 A 10.259862 6.5438623 75 0 1 9.9725572 21.409508 A 10.259862 6.5438623 75 0 1 13.637981 9.8055197 A 10.259862 6.5438623 75 0 1 14.485478 9.6690934 z M 49.939784 31.136601 A 18.000069 18 75 0 1 45.280619 48.523722 A 18.000069 18 75 0 1 27.894015 53.182371 A 18.000069 18 75 0 1 15.166059 40.454416 L 32.552663 35.795767 L 49.939784 31.136601 z " />
     <ellipse
        style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.518238;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.518238, 1.03648;stroke-opacity:1;paint-order:stroke fill markers"
@@ -151,7 +151,7 @@
        id="g8"
        transform="rotate(-15,27.383526,16.503141)">
       <ellipse
-         style="fill:#3ecc5f;fill-opacity:1;stroke:none;stroke-width:0.0760399;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.0760399, 0.152079;stroke-opacity:1;paint-order:stroke fill markers"
+         style="fill:#3584e4;fill-opacity:1;stroke:none;stroke-width:0.0760399;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.0760399, 0.152079;stroke-opacity:1;paint-order:stroke fill markers"
          id="path4-9-3"
          cx="33.679127"
          cy="23.044462"
@@ -159,7 +159,7 @@
          ry="5.956666"
          transform="rotate(-15)" />
       <ellipse
-         style="fill:#3ecc5f;fill-opacity:1;stroke:none;stroke-width:0.0760399;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.0760399, 0.152079;stroke-opacity:1;paint-order:stroke fill markers"
+         style="fill:#3584e4;fill-opacity:1;stroke:none;stroke-width:0.0760399;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.0760399, 0.152079;stroke-opacity:1;paint-order:stroke fill markers"
          id="path4-9-3-2"
          cx="10.679129"
          cy="23.011915"

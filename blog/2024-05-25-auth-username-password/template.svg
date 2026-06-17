@@ -57,7 +57,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#33c255;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="fill:#1A5FB4;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect1"
        width="153.45833"
        height="47.624996"
@@ -66,7 +66,7 @@
        rx="10.583331"
        ry="10.583331" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#33c255;stroke-width:5.60245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="fill:none;fill-opacity:1;stroke:#1A5FB4;stroke-width:5.60245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect1-2"
        width="192.66658"
        height="47.624996"
@@ -75,7 +75,7 @@
        rx="15.875001"
        ry="15.875001" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#33c255;stroke-width:5.60245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="fill:none;fill-opacity:1;stroke:#1A5FB4;stroke-width:5.60245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect1-2-7"
        width="192.66658"
        height="47.624996"
@@ -95,7 +95,7 @@
          y="257.94516">login</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#33c255;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="font-size:32px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#1A5FB4;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        x="128.28806"
        y="199.88744"
        id="text1-6"><tspan
@@ -105,7 +105,7 @@
          y="199.88744">password</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#33c255;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="font-size:32px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#1A5FB4;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        x="127.90406"
        y="139.0285"
        id="text1-6-1"><tspan

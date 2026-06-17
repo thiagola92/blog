@@ -59,16 +59,16 @@
      id="layer1">
     <path
        id="path1"
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:1.4426;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:1.4426;stroke-linecap:round;stroke-linejoin:bevel"
        d="M 40 8 A 32 32 0 0 0 8 40 A 32 32 0 0 0 40 72 A 32 32 0 0 0 72 40 A 32 32 0 0 0 40 8 z M 27 16 A 8 8 0 0 1 35 24 A 8 8 0 0 1 27 32 A 8 8 0 0 1 19 24 A 8 8 0 0 1 27 16 z M 53 16 A 8 8 0 0 1 61 24 A 8 8 0 0 1 53 32 A 8 8 0 0 1 45 24 A 8 8 0 0 1 53 16 z M 26.5 57.470703 L 53.5 57.470703 C 54.885157 57.470703 56 57.652219 56 57.877604 C 56 58.10299 54.885157 58.284505 53.5 58.284505 L 26.5 58.284505 C 25.114843 58.284505 24 58.10299 24 57.877604 C 24 57.652219 25.114843 57.470703 26.5 57.470703 z " />
     <circle
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:0.157784;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:0.157784;stroke-linecap:round;stroke-linejoin:bevel"
        id="path1-5-7"
        cx="55.5"
        cy="20.5"
        r="3.5" />
     <circle
-       style="fill:#3ecc5f;fill-opacity:1;stroke-width:0.157784;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#3584e4;fill-opacity:1;stroke-width:0.157784;stroke-linecap:round;stroke-linejoin:bevel"
        id="path1-5-7-6"
        cx="24.5"
        cy="20.5"
