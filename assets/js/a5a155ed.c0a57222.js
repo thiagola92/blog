@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([["8159"],{59274(e){e.exports=JSON.parse('{"tag":{"label":"sieve","permalink":"/tags/sieve","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/sieve","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

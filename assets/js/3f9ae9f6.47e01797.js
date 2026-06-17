@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([["8129"],{18322(e){e.exports=JSON.parse('{"authors":[{"name":"ThiagoLA92","title":"\u{1F36B}\u{1F36B}\u{1F36B}","imageURL":"/img/profile.svg","key":"thiagola92","page":null,"count":38}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([["1954"],{5165(e){e.exports=JSON.parse('{"tag":{"label":"selenium","permalink":"/tags/selenium","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/selenium","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

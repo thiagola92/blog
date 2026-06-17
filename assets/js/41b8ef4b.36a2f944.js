@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([["2576"],{68859(t){t.exports=JSON.parse('{"tag":{"label":"rust","permalink":"/tags/rust","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/rust","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
