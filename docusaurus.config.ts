@@ -77,6 +77,13 @@ const config: Config = {
         alt: 'Website Logo',
         src: 'img/logo.svg',
       },
+      items: [
+        {
+          href: 'https://thiagola92.github.io/',
+          position: 'right',
+          label: 'Home',
+        }
+      ]
     },
     footer: {
       style: 'dark',
